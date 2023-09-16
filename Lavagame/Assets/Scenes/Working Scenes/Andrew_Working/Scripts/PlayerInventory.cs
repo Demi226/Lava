@@ -38,10 +38,10 @@ public class PlayerInventory : MonoBehaviour
                 return (hasFood);
                 break;
             case 2:
-                return (weaponImage);
+                return (hasWeapon);
                 break;
             case 3:
-                return (boostImage);
+                return (hasBoost);
                 break;
             default:
                 return (true);

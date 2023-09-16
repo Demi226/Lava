@@ -45,5 +45,9 @@ public class Enemy : MonoBehaviour
             Destroy(this.gameObject);
             playerMovement.TakeDamage(damageToDeal);
         }
+        if(collision.tag == "Weapon")
+        {
+            Destroy(this.gameObject);
+        }
     }
 }
