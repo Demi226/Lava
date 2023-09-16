@@ -21,7 +21,7 @@ public class TimmerFunction : MonoBehaviour
         if (currentTime > 0f)
         {
             currentTime -= 1f * Time.deltaTime;
-            timeText.text = ":" + Mathf.FloorToInt(currentTime);
+            timeText.text = ":" + Mathf.CeilToInt(currentTime);
         }
     }
 }

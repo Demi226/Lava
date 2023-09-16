@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class PlayerMovement : MonoBehaviour
 {
 
+    public PlayerInventory playerInventory;
+
     //holds the UI elements for health and stamina
     public Slider pStamina;
 
@@ -43,6 +45,13 @@ public class PlayerMovement : MonoBehaviour
 
         // updates the stamina bar
         pStamina.value = playerSpeed;
+
+        // checks if player has food, then consumes it and gives back some stamina
+        if (Input.GetKey("q") && playerInventory.hasFood)
+        {
+            playerInventory.UpdateInventory(1);
+            playerSpeed += 0.1f;
+        }
 
     }
 

@@ -12,8 +12,12 @@ public class Item : MonoBehaviour
     {
         if(collision.tag == "Player")
         {
-            Destroy(this.gameObject);
-            playerInventory.UpdateInventory(itemNum, true);
+            
+            // check if player doesn't have the item, then destroy and add a new item
+            if (playerInventory.CheckInventory(itemNum) == false){
+                Destroy(this.gameObject);
+                playerInventory.UpdateInventory(itemNum);
+            }
         }
     }
 }
