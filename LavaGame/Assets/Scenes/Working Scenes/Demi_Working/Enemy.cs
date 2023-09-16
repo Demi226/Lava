@@ -5,9 +5,10 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public Transform player;
-    public float moveSpeed = 5f;
+    public float moveSpeed = 5f, damageToDeal;
     private Rigidbody2D rb;
     private Vector2 movement;
+    public PlayerMovement playerMovement;
 
     // Start is called before the first frame update
     void Start()
@@ -42,6 +43,7 @@ public class Enemy : MonoBehaviour
         if(collision.tag == "Player")
         {
             Destroy(this.gameObject);
+            playerMovement.TakeDamage(damageToDeal);
         }
     }
 }
