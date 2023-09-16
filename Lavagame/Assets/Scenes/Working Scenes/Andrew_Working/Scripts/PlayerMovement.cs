@@ -97,9 +97,9 @@ public class PlayerMovement : MonoBehaviour
         {
             playerSpeed -= damage;
         }
-        if (playerSpeed < 0.1f)
+        if (playerSpeed < 0.05f)
         {
-            playerSpeed = 0.1f;
+            playerSpeed = 0.05f;
         }
         if (playerSpeed > 0.3f)
         {

@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 8659037223753126809}
   - component: {fileID: 5301879805376773142}
   m_Layer: 0
-  m_Name: Item
+  m_Name: FoodItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -175,3 +175,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e687d78ca3dc46128176d101f3db0ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerInventory: {fileID: 0}
+  itemNum: 1
