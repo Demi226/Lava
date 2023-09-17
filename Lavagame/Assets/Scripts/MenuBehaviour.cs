@@ -13,6 +13,7 @@ public class MenuBehaviour : MonoBehaviour
     public TimmerFunction timerFunction;
     private float timer = 7f, endCredits = 7f;
     public string sceneName;
+    public GameObject dummyCamera;
 
 
     void Awake()
@@ -42,17 +43,20 @@ public class MenuBehaviour : MonoBehaviour
         {
             infoMenu.SetActive(false);
             playerObject.SetActive(true);
+            dummyCamera.SetActive(false);
         }
 
         if(enemyController.playerLocation >= 6)
         {
             endMenu.SetActive(true);
+            dummyCamera.SetActive(true);
             playerObject.SetActive(false);
             endCredits -= 1 * Time.deltaTime;
         }
         if(timerFunction.currentTime <= 0 && timerFunction.gameStart == true)
         {
             defeatMenu.SetActive(true);
+            dummyCamera.SetActive(true);
             playerObject.SetActive(false);
             endCredits -= 1 * Time.deltaTime;
         }
