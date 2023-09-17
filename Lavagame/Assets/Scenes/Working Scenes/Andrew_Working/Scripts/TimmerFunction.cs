@@ -10,18 +10,27 @@ public class TimmerFunction : MonoBehaviour
     public Text timeText;
     public float currentTime;
 
+    // starts the timer when the games starts
+    public bool gameStart = false;
+
     void Start()
     {
-        currentTime = 60f;
+        timeText.text = " ";
     }
 
     void Update()
     {
         // while the timer is greater then zero count down
-        if (currentTime > 0f)
+        if (currentTime > 0f && gameStart)
         {
             currentTime -= 1f * Time.deltaTime;
             timeText.text = ":" + Mathf.CeilToInt(currentTime);
         }
+    }
+
+    public void UpdateTimer()
+    {
+        currentTime = 60f;
+        gameStart = true;
     }
 }
