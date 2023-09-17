@@ -5078,7 +5078,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Game Design by: '
+  m_Text: "Game Design by: \nEric\nAdrian\nDemi\nAndrew\n\nPress \"R\" to restart"
 --- !u!222 &333148350
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23160,6 +23160,7 @@ MonoBehaviour:
   playerObject: {fileID: 398169429}
   enemyController: {fileID: 904574444}
   timerFunction: {fileID: 1677433684}
+  sceneName: 
 --- !u!1001 &1563110173
 PrefabInstance:
   m_ObjectHideFlags: 0

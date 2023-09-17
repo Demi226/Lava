@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class MenuBehaviour : MonoBehaviour
@@ -11,6 +12,13 @@ public class MenuBehaviour : MonoBehaviour
     public EnemyController enemyController;
     public TimmerFunction timerFunction;
     private float timer = 7f, endCredits = 7f;
+    public string sceneName;
+
+
+    void Awake()
+    {
+        sceneName = SceneManager.GetActiveScene().name;
+    }
 
     public void GameStart()
     {
@@ -53,7 +61,7 @@ public class MenuBehaviour : MonoBehaviour
             creditsMenu.SetActive(true);
             if (Input.GetKey(KeyCode.Space))
             {
-                SceneManager.LoadScene(Beta);
+                SceneManager.LoadScene(sceneName);
             }
         }
     }
