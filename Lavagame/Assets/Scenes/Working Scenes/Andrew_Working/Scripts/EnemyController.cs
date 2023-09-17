@@ -6,18 +6,20 @@ public class EnemyController : MonoBehaviour
 {
 
     public GameObject[] listOfEnemies;
-    public AudioClip[] enemyAudio;
+    public AudioClip[] enemyAudio; 
     public AudioSource enemysource;
     public Transform[] listOfSpawns;
     public int playerLocation = 0;
     public TimmerFunction timerFunction;
 
+
     public void UpdateArea()
     {
         timerFunction.UpdateTimer();
-        enemysource.clip = enemyAudio[playerLocation];
-        enemysource.Play();
+        enemysource.PlayOneShot(enemyAudio[playerLocation], 0.7f);
         switch (playerLocation){
+            case 1:
+                break;
             case 2:
                 listOfEnemies[0].SetActive(true);
                 break;

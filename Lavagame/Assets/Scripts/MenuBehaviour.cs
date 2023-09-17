@@ -41,6 +41,8 @@ public class MenuBehaviour : MonoBehaviour
         }
         else if(startMenu.activeSelf == false)
         {
+            enemyController.enemysource.Stop();
+            enemyController.enemysource.Play();
             infoMenu.SetActive(false);
             playerObject.SetActive(true);
             dummyCamera.SetActive(false);
@@ -48,22 +50,28 @@ public class MenuBehaviour : MonoBehaviour
 
         if(enemyController.playerLocation >= 6)
         {
+            enemyController.enemysource.Stop();
             endMenu.SetActive(true);
             dummyCamera.SetActive(true);
             playerObject.SetActive(false);
             endCredits -= 1 * Time.deltaTime;
+
+            enemyController.enemysource.Play();
         }
         if(timerFunction.currentTime <= 0 && timerFunction.gameStart == true)
         {
+            enemyController.enemysource.Stop();
             defeatMenu.SetActive(true);
             dummyCamera.SetActive(true);
             playerObject.SetActive(false);
             endCredits -= 1 * Time.deltaTime;
+
+            enemyController.enemysource.Play();
         }
         if(endCredits <= 0f)
         {
             creditsMenu.SetActive(true);
-            if (Input.GetKey(KeyCode.Space))
+            if (Input.GetKey("r"))
             {
                 SceneManager.LoadScene(sceneName);
             }
