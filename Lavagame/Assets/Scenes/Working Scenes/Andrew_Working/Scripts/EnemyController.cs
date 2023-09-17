@@ -30,16 +30,12 @@ public class EnemyController : MonoBehaviour
                 listOfEnemies[2].SetActive(true);
                 break;
             case 5:
-                listOfEnemies[3].SetActive(true);
-                listOfEnemies[4].SetActive(true);
-                break;
-            case 6:
                 for(int i = 0; i < listOfEnemies.Length; i++)
                 {
                     listOfEnemies[i].SetActive(true);
                 }
                 break;
-            case 7:
+            case 6:
                 //game end here
                 break;
             default:
