@@ -99,7 +99,9 @@ public class PlayerMovement : MonoBehaviour
             playerInventory.UpdateInventory(2);
             playerLamp.SetActive(true);
             lampTime = 2f;
+            animator.SetBool("LanternOn", true);
         }
+      
         // check for boost
         if(Input.GetKey(KeyCode.LeftShift) && playerInventory.hasBoost)
         {
@@ -123,6 +125,7 @@ public class PlayerMovement : MonoBehaviour
         if(lampTime <= 0f)
         {
             playerLamp.SetActive(false);
+            animator.SetBool("LanternOn", false);
         }
     }
 
