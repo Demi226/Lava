@@ -6,25 +6,26 @@ using UnityEngine.UI;
 
 public class MenuBehaviour : MonoBehaviour
 {
-    public Image startMenu, infoMenu, defeatMenu, endMenu, creditsMenu;
+    public GameObject startMenu, infoMenu;// defeatMenu, endMenu, creditsMenu;
     public GameObject playerObject;
     private float timer = 7f;
 
     public void GameStart()
     {
-        startMenu.enabled = false;
+        startMenu.SetActive(false);
+        infoMenu.SetActive(true);
         timer = 7f;
     }
 
     void Update()
     {
-        if(timer > 0f)
+        if(timer > 0f && !startMenu.activeSelf)
         {
             timer -= 1 * Time.deltaTime;
         }
-        else
+        else if(startMenu.activeSelf == false)
         {
-            infoMenu.enabled = false;
+            infoMenu.SetActive(false);
             playerObject.SetActive(true);
         }
     }
