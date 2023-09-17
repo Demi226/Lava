@@ -89,14 +89,14 @@ public class PlayerMovement : MonoBehaviour
         // checks if player has food, then consumes it and gives back some stamina
         if (Input.GetKey("q") && playerInventory.hasFood)
         {
-            playerInventory.UpdateInventory(1);
+            playerInventory.UpdateInventory(0);
             playerSpeed += 0.1f;
             playersource.clip = playerAudio[0];
         }
         //check for lamp
         if (Input.GetKey("e") && playerInventory.hasWeapon)
         {
-            playerInventory.UpdateInventory(2);
+            playerInventory.UpdateInventory(1);
             playerLamp.SetActive(true);
             lampTime = 2f;
             animator.SetBool("LanternOn", true);
@@ -105,7 +105,7 @@ public class PlayerMovement : MonoBehaviour
         // check for boost
         if(Input.GetKey(KeyCode.LeftShift) && playerInventory.hasBoost)
         {
-            playerInventory.UpdateInventory(3);
+            playerInventory.UpdateInventory(2);
             boostTime = 0.2f;
             playersource.clip = playerAudio[1];
         }
