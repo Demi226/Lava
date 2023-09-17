@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject playerLamp;
 
     // how long the lamp and boost lasts
-    private float lampTime, boostTime;
+    public float lampTime, boostTime;
 
     //everything the player holds and can use
     public PlayerInventory playerInventory;
