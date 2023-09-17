@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: 4f90be89e22144976bbd406623f69164
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc walking down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84280a102cac24b7e95fa4e01536f4c5
+      internalID: -156561507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c36b201d0aa4ae4af2c45bf6d581bc
+      internalID: -2120046167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567ec844169064f44ab2c8573d6c832d
+      internalID: 680511943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8a8973f3714569b944e28cc1fd560
+      internalID: 585610087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6d1065adb440ddae0f1fb86c0273c
+      internalID: -26751269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86092bf03194c2580b37512785be74
+      internalID: 1728205454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79d0195d34b64d5088c786a13251705
+      internalID: 238405219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e91d0691b9482e9ecd1e76762f9e7
+      internalID: -2109421582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9289499d0b44e86846b2bd913d7c4b
+      internalID: -866628059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0cf5faa4484dbfbc75fc58d1b4e25
+      internalID: 1404919787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e9eb2d7fba44e7a7e1b63e24a474b
+      internalID: -2008742118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707d91038ed64a3e8a49083f133b402
+      internalID: -409096402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a311a878df44d981570174e3d242b
+      internalID: 1375803566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23debf32b19bc415aa127a49fdac4919
+      internalID: 136427604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456270eb616584654bfc31be8f8737fe
+      internalID: -443197442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee4581c09844078ac0ee2a2f90524d
+      internalID: 1861079683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_16
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800e02f51942416f99f757f0f06d33e
+      internalID: -128072095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5c02282bb6444a88ace40e4bab406
+      internalID: -1504201614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e01ffdc17874258acd3f12396eb6ef
+      internalID: -1857334404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_19
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537ffd4e5b8d4a4295396dfd1db305d
+      internalID: 1468999816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_20
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048570b403b214ad78bbb32801d0869d
+      internalID: 474451547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_21
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2389aa9f5611480ca354c45c26d6e31
+      internalID: 1283673949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ccb893e3fb4c04bfdd8ab58b693a5
+      internalID: -1948226845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7743893b5d749d3b263aeb80bfd2fb
+      internalID: -780909477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f719b4e581164e7393684c73da16983
+      internalID: -581021515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fd12dca9d4342cb955776619a32dde
+      internalID: 26935808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a44e6f34e9f244069b2532fad49b4f3
+      internalID: 632903412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_27
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7233a0969ba4fd2b18fa52ed8a694f
+      internalID: 383946038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_28
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1a0bb6f75f418eb112552833ff87e
+      internalID: 1114225185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_29
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef25799622eea4ec5b025484211d9b7c
+      internalID: -1034494497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_30
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f40854699b403498425062d8f01bd
+      internalID: 620153362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_31
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d82b68bd6e814483a40f0e77ab8946d
+      internalID: -1503381331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_32
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf51b4ced87bd43f99afce002fe19fda
+      internalID: 74643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b7c5d6d27e41e2affb4441e31fb6a
+      internalID: 1540202857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675d9645cfcd45cb950c1cff6544f41
+      internalID: -542613855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3043bbe30b24ea79706ce05d6bd488
+      internalID: -842740747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_36
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74bfd1c0a49949a297591890257a434
+      internalID: 205330477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6794ab9aa02a44208122e77e07447ec
+      internalID: -1177947448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328dfef79f2e9491d8debfd7b52825b4
+      internalID: 1863706612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_39
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b090508e2117415ebf49add5ffe6463
+      internalID: -1387046663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_40
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5318130f924ebb8d9b3df35415f30
+      internalID: -1633700993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_41
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2345523159bd4f39bcc4cbc81697316
+      internalID: 1393996363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_42
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924a22a418584b2bbe8a0029881361e
+      internalID: -576127483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_43
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee620c9db9c4b6cb1cb0e4ae606140
+      internalID: -734657147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613840b46c8c94fc9a73e9660b6896b8
+      internalID: -142246099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42893021b303496f95cb0add7e377c7
+      internalID: -368290077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb2e57c1b7948ea972d91fc84bc6e5
+      internalID: -1426544984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5c99531c7d456bbda8d7dbb7969df
+      internalID: -108098082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_48
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a856a9f9ae74de1b163bd2bf495888
+      internalID: -855813811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_49
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4f9787dc8c478093d109c0d232d57
+      internalID: -132743849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_50
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d1efdd524943eaa9cff12da807ea4
+      internalID: 1859015267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_51
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20868fd78c4f4969bc06fb01015845a
+      internalID: -162361991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_52
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1810592fdf4d4ed5a8c258e6130efe6
+      internalID: -1302366669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_53
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21cedb18370a426cae6f8a26abce9f0
+      internalID: 1386014238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_54
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a09b16703394af7873bfc49fe4584f
+      internalID: -1835097978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf1bcf5ba1743a193eb5f5b144316e
+      internalID: -777003418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8603032c55d4f4186970d5d67004f0
+      internalID: 1804800906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722d6115d4944e1ea19a1dcbd88a7cb
+      internalID: -393856054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_58
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29202b849694bb1b77be048102d887
+      internalID: 1996002809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_59
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1533194bd224fcab95e981b4c1d383
+      internalID: -1288568338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_60
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9cc08469b6746f8bcdf09b4530a22a
+      internalID: -1986555814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_61
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc37a4c875b5949bfacf1781c0d1f182
+      internalID: -1403624404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_62
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9122f483aa9c24b25bf4e339529bd105
+      internalID: 1900292027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_63
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d2286c4dc54cfda40fb57cbab2ff6
+      internalID: -1862842623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_64
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409acd410f81b42aabeac00a0c65366e
+      internalID: 1061930550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_65
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a9bd2e2e654d57ac0cccabc20614a
+      internalID: 1455458634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6760464ee66445f4bcfffc56b40535a
+      internalID: 930802643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9716bb86b29c45ccb134ed2bb6489ca
+      internalID: 1914882798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_68
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0140c57d31471d8b17616703d1107
+      internalID: 531889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5662734da0484c966d7fd410eec34
+      internalID: 1041627869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36738a5660247df991cc30cb380747
+      internalID: 708667120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_71
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449df71917e44d8c85e9bf240e6c714
+      internalID: -1069049487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_72
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a241ab004d694b5dad2d35cfbb2a915
+      internalID: 1581374399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_73
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddc0009305045b994d52b0d6817b7c
+      internalID: -10262557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_74
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6cb93fb89f4f81af58214457dea94
+      internalID: -1094678402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_75
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be346bb5ec7448b0bcd929985879e15
+      internalID: -1466494870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_76
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad6d525bc6046a2833d68ea91f69e0
+      internalID: 1168528131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3111208e79684bdd9783e34dc8870ee
+      internalID: 370417193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef134b719f441b9a29683518e9250e
+      internalID: -807414130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3737d0a4043e4a20862d87053489ef4
+      internalID: 965132304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_80
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8759d7e444c4780b03b00e45cd5fa8
+      internalID: -263234253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f1fd2203f2479badccf80173f5e3b
+      internalID: 1106776172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_82
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6080f30834044e18879aa27ccdd3940
+      internalID: 493300007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_83
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33929d31efe4fcf8beba7a5cbaa48a
+      internalID: -2141240080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_84
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603d5d1ed33ad4a8d92f929343f85680
+      internalID: 1615333238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_85
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482252e6312646389ba6906fd752b71
+      internalID: -949517843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_86
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a2dcc8d055d4a5cb8ee6c8783ac68e
+      internalID: 1878513730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_87
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aae6cb7bbd64751ae334b3edf342d0
+      internalID: 928869039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a55b91a63043eabf0ac0b76ba665a
+      internalID: -902208270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dffb64f5c934c7cbe44cd8b791b311
+      internalID: -1164749932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bee00da8e0b4cb395f51c292a673d2
+      internalID: 1444201888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_91
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db76c7d9e7746b2af598e93fdcd911
+      internalID: 1797158332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_92
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a362bc199dd47e3be2a29a66a06ce3
+      internalID: 1672919333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d819420e2f82f4a7aa3af99393b17101
+      internalID: -6478712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_94
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db165545781b4d9f92c4d3523004382
+      internalID: -1695692967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_95
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71894da7648974e6ea0441c798faa2fa
+      internalID: -710281742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_96
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e60b248e494da293b90749a770f11
+      internalID: -745342892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_97
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9488fcb9d8c45e1bcff0ec1dc7f7ca
+      internalID: 672643474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_98
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd92e8a1b8c4ca6a8304b9fe8da5c0
+      internalID: 1646226516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94e8e48ef554587bde9fbc622d0477
+      internalID: -426655777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875e76b9c39b4858b3bde79f521cb81
+      internalID: 414040237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf528d1a16dac45888e3c9635e2cdb7e
+      internalID: -732201965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_102
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f8a7dcef4c4fea9464a8062a18f14
+      internalID: 1022602041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_103
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d589137a2d4f4ad79919c981d9822f7
+      internalID: 879933050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_104
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb10d3ac69404968b9fd0f0f53764b1
+      internalID: 133464446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_105
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0b9eeca4d849eba1930c7d3818b7b
+      internalID: -176152535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_106
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fdad8525b9f4ad29d09c31274cf34e
+      internalID: -220369390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_107
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32532fe13f674c9291bfe45bef5b8da
+      internalID: 1197704474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_108
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dde73ac379d4500a8b980fe1b46519
+      internalID: -1524836282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_109
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce812ed78014b9ea73d1f4b43cc2a9
+      internalID: 135710338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f524eca95d7b4d90bd713758cc03137
+      internalID: 588557319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaab223996534ecfb96bce1c226b24f
+      internalID: 1429203572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_112
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81d6b5d985a4a7c83e27157bd2ec61
+      internalID: -1581768097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_113
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbe7b20981149df8a328e7c7ea73fa
+      internalID: 1144037397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_114
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ddd1e184624e5cacdf946842699ba
+      internalID: -197862319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_115
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c90e8290f8148bea1d33a715ba87c8
+      internalID: 1331602210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_116
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a5d155a3fd42d9adb791928aff756
+      internalID: 1323587721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_117
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c66445cb724bf5bae49d058b09b43
+      internalID: 1853376821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_118
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0527f810674541cba681fea5db08a64
+      internalID: -1495677485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking down_119
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7705df62def540c5b2a168f3d7e03e3
+      internalID: 2015613601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mc walking down_0: -156561507
+      mc walking down_1: -2120046167
+      mc walking down_10: -2008742118
+      mc walking down_100: 414040237
+      mc walking down_101: -732201965
+      mc walking down_102: 1022602041
+      mc walking down_103: 879933050
+      mc walking down_104: 133464446
+      mc walking down_105: -176152535
+      mc walking down_106: -220369390
+      mc walking down_107: 1197704474
+      mc walking down_108: -1524836282
+      mc walking down_109: 135710338
+      mc walking down_11: -409096402
+      mc walking down_110: 588557319
+      mc walking down_111: 1429203572
+      mc walking down_112: -1581768097
+      mc walking down_113: 1144037397
+      mc walking down_114: -197862319
+      mc walking down_115: 1331602210
+      mc walking down_116: 1323587721
+      mc walking down_117: 1853376821
+      mc walking down_118: -1495677485
+      mc walking down_119: 2015613601
+      mc walking down_12: 1375803566
+      mc walking down_13: 136427604
+      mc walking down_14: -443197442
+      mc walking down_15: 1861079683
+      mc walking down_16: -128072095
+      mc walking down_17: -1504201614
+      mc walking down_18: -1857334404
+      mc walking down_19: 1468999816
+      mc walking down_2: 680511943
+      mc walking down_20: 474451547
+      mc walking down_21: 1283673949
+      mc walking down_22: -1948226845
+      mc walking down_23: -780909477
+      mc walking down_24: -581021515
+      mc walking down_25: 26935808
+      mc walking down_26: 632903412
+      mc walking down_27: 383946038
+      mc walking down_28: 1114225185
+      mc walking down_29: -1034494497
+      mc walking down_3: 585610087
+      mc walking down_30: 620153362
+      mc walking down_31: -1503381331
+      mc walking down_32: 74643126
+      mc walking down_33: 1540202857
+      mc walking down_34: -542613855
+      mc walking down_35: -842740747
+      mc walking down_36: 205330477
+      mc walking down_37: -1177947448
+      mc walking down_38: 1863706612
+      mc walking down_39: -1387046663
+      mc walking down_4: -26751269
+      mc walking down_40: -1633700993
+      mc walking down_41: 1393996363
+      mc walking down_42: -576127483
+      mc walking down_43: -734657147
+      mc walking down_44: -142246099
+      mc walking down_45: -368290077
+      mc walking down_46: -1426544984
+      mc walking down_47: -108098082
+      mc walking down_48: -855813811
+      mc walking down_49: -132743849
+      mc walking down_5: 1728205454
+      mc walking down_50: 1859015267
+      mc walking down_51: -162361991
+      mc walking down_52: -1302366669
+      mc walking down_53: 1386014238
+      mc walking down_54: -1835097978
+      mc walking down_55: -777003418
+      mc walking down_56: 1804800906
+      mc walking down_57: -393856054
+      mc walking down_58: 1996002809
+      mc walking down_59: -1288568338
+      mc walking down_6: 238405219
+      mc walking down_60: -1986555814
+      mc walking down_61: -1403624404
+      mc walking down_62: 1900292027
+      mc walking down_63: -1862842623
+      mc walking down_64: 1061930550
+      mc walking down_65: 1455458634
+      mc walking down_66: 930802643
+      mc walking down_67: 1914882798
+      mc walking down_68: 531889283
+      mc walking down_69: 1041627869
+      mc walking down_7: -2109421582
+      mc walking down_70: 708667120
+      mc walking down_71: -1069049487
+      mc walking down_72: 1581374399
+      mc walking down_73: -10262557
+      mc walking down_74: -1094678402
+      mc walking down_75: -1466494870
+      mc walking down_76: 1168528131
+      mc walking down_77: 370417193
+      mc walking down_78: -807414130
+      mc walking down_79: 965132304
+      mc walking down_8: -866628059
+      mc walking down_80: -263234253
+      mc walking down_81: 1106776172
+      mc walking down_82: 493300007
+      mc walking down_83: -2141240080
+      mc walking down_84: 1615333238
+      mc walking down_85: -949517843
+      mc walking down_86: 1878513730
+      mc walking down_87: 928869039
+      mc walking down_88: -902208270
+      mc walking down_89: -1164749932
+      mc walking down_9: 1404919787
+      mc walking down_90: 1444201888
+      mc walking down_91: 1797158332
+      mc walking down_92: 1672919333
+      mc walking down_93: -6478712
+      mc walking down_94: -1695692967
+      mc walking down_95: -710281742
+      mc walking down_96: -745342892
+      mc walking down_97: 672643474
+      mc walking down_98: 1646226516
+      mc walking down_99: -426655777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

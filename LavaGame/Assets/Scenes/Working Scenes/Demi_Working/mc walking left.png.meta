@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: b09f18669ffa04b8fbb62fa889519a56
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc walking left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bd391b1a5b480098b80039fc112e2
+      internalID: 1441596769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d8b04f974b403da6a9e9bbda18503
+      internalID: -1500029027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d60ee6a42df426fa26a8d63707a66a
+      internalID: 2066618579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c525797d7fa4086b6e2795098b7b3a
+      internalID: -1733764361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acffd8c2b79b4c5b8b46df514654e6f
+      internalID: -1044432668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe549d92c2644c1acb5b8ddb6e14db
+      internalID: -274936536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3b68ef24f14c198ab19f8a43ec6e8
+      internalID: -1561974355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dceeb25840654684969033d3f2ab4b0
+      internalID: -2068623897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbad4ec867994a17a0fb5e774290330
+      internalID: 2021191231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1743130d80b4cd8a46e44b0464f5e0
+      internalID: 2032875529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f003b1db198e74e13a12c37722e225f3
+      internalID: -2093585193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1542ac44a8342e682a37d1ba9d40b1
+      internalID: -737117740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb958a2b8a649b090d9612850b3a53
+      internalID: 156724619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa70a1d2c4f1486fa9aa7c06425ccd3
+      internalID: 1985408699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66c7b9991e8406c820ce6292659392
+      internalID: -771633677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068dfb61243264f709a0ab163e558b74
+      internalID: 680599105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_16
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196a512c6da24b0fad8fd2b0d6acf88
+      internalID: 1836438434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd3cf7ad38d48958cce4271c116b59
+      internalID: -721017742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccb6d1173754ba79e2bdb58f0f9af4
+      internalID: 1232747821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_19
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49b4ca5c44041fa9c1a51c6c8a4b79
+      internalID: -1755537877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_20
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4790e1fe879a48e7b99ff2e342f6820
+      internalID: 1599372639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_21
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c764db3a924d37bb2f718ba2fc9b8
+      internalID: 1782682228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66759cbe82f47edb32d25ae49ceb7e
+      internalID: -514675120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4af4e415134d8fbeb73d35c961a43
+      internalID: -1634177613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed829066fe9498aa6c9db1f3ef5729
+      internalID: 682133245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279c5164b42543f0ab4428f44583c09
+      internalID: 838883960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c099eaa5b54d0ab3a491f8840ed31
+      internalID: 609331862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_27
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2744690687c4f84953d9d5cfa053a0
+      internalID: 2102729666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_28
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b878087f1f64d6d8d8404084c8a2ec
+      internalID: -641290073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_29
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c497b57118b14f9098187d7f129f91e
+      internalID: 1143827423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_30
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d058c96ea5440fd9f564d5ab776f18
+      internalID: 1857144340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_31
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357af969abb3240ae843603e37ddabd6
+      internalID: 360202120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_32
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8899f12cb20e74cde8b5d8a1b02840f2
+      internalID: 499442014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24a5d17150343738ba8f42158568fc
+      internalID: 246728149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb380427069d14d28b00a6595e19f3f2
+      internalID: 323122395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa976e898a8404725995338d36a6e8c6
+      internalID: 1660796872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_36
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011d91323e944cab857f57953f059e6
+      internalID: -1121163151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7799f6e970684b829f785977c47eacd
+      internalID: -1923188787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2333c71d1314fcea98e31801b84f9b
+      internalID: -214462019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_39
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ff6bd940efe49ffb91f2a9b98a1233
+      internalID: 2130538857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_40
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93058d7d59e4740ae58e9b09926aa9
+      internalID: 985867617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_41
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b080476430f164552b5b2c923fea3e76
+      internalID: 484546213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_42
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872d15c4f12142f3ae69ddad3633147
+      internalID: 1664031128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_43
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2de37b099f452f95c0ae583e18f93
+      internalID: -1890101516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d9f1ea92f649178a2f27cbb7067ea
+      internalID: 857723802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd8c0d2224c40baa7e014092b57db0
+      internalID: 1791168731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01118f6f3fe8049a8ae31e069eca845a
+      internalID: 1266904394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e49c32bd6d44bb9df4ef55eca5e9a
+      internalID: 1036219893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_48
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20203fefc19334fbabf81b476076c594
+      internalID: 1563804514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_49
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ab59807c4c4234ae03d7498d1d318
+      internalID: 760842481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_50
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e46da13aa148f8b3d8f960aadd592
+      internalID: -1910291304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_51
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a11338259b644f0b9874deffaf793b
+      internalID: 1035077968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_52
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ebb2a2e9b18484483e95a581109ebf
+      internalID: -2091771145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_53
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fce3a32758f4010ad13bde0ea38869
+      internalID: -1518195124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_54
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9923b3cfd964ab88c53034ad902e72
+      internalID: 548326188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6cf0e0583349209d2052942bcd7ac
+      internalID: -2116199849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c6c3df88ed421dacd5f66a77e1338
+      internalID: -12966365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530ddb86bfaa437bbd9d5ee8f553d1b
+      internalID: 1944101393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_58
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ec7afbf2224475b0e6538afc52ee8
+      internalID: -92477746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_59
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38293dded85ab4cc4a05e385afb776d4
+      internalID: 127311796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_60
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25280559f4614ac5b9c5e63ed9537a1
+      internalID: -1570251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_61
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5ddd7a8bb6435cb5c40aaf9aed8a4
+      internalID: 1192302895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_62
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422e92e7b5f04f5bbd9c1d85ba9de90
+      internalID: 1835977664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_63
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3186c65d3c466d8a84cc131e3ef6d
+      internalID: -928023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_64
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc730c8edb9da4707b80fc07de5e1606
+      internalID: -593532752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_65
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8766427361b74069bc866c2deec58c3
+      internalID: -790842200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bd3756c86534109a01e6d8ae21e5f5
+      internalID: -185804492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798e643483bd45e6b018da66bbfef11
+      internalID: -353276182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_68
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ecaac925e49488893a710fa54bf873
+      internalID: 1344786258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b3d954b7e894486b8baa86620b9e62
+      internalID: 1084964632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0714962b38245f9ada28d16ff9ad6e
+      internalID: -1299241648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_71
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d6b50088b24f35a52ceda19ae0134
+      internalID: 605669168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_72
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c9a6208061407496ebf391a5bbc89
+      internalID: -1984777145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_73
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc306ed729a04131a5fa994503f7aa8
+      internalID: -1489959037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_74
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ae9fdbffec46869194a496714a1f0
+      internalID: -104355819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_75
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3767874e95854d79859bb797e2a6420
+      internalID: 965780685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_76
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ed6e3964fe4e6b8f8cc4e78c1e37f
+      internalID: 1018123006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbaa03bfce8248e28ce9c7d2a417dd1
+      internalID: 1402829484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551e8d2fd8bc47d7855c391c47df908
+      internalID: 2136373270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67472193535d44ee5be837b71d33c144
+      internalID: 69855203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_80
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4686d24fbc4a427880ebb281fc1ca38
+      internalID: -1539470740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d16942c82af4780a538a2cb3fb0ea1
+      internalID: -262121375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_82
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83307bd0100364653aa0d62dfa51f70a
+      internalID: -106216383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_83
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc112a99076224223b4157d76b5db4f4
+      internalID: -413707320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_84
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e54034eb0c40bcbcb308ea7891f75
+      internalID: 1282097247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_85
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb0ad23ae6240869a3184fd0119e38
+      internalID: -519823890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_86
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c365189af34440a1e555c04c23b26
+      internalID: -1983915888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_87
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d35e52da99467398c2c72509b4ffb
+      internalID: 1838169595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8145a3981314d4ba3c24b7f40424fa
+      internalID: 1855663101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99733082afb49d1b51ee557ef169e0
+      internalID: 1834477521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35222b46da8ce4632aaaa5b314ac7db7
+      internalID: -525228431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_91
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddeaa6e90d54707aa7b6f2d5bbe74f
+      internalID: -1104805360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_92
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058d6356596b4ec7a5da9d35f155f2b
+      internalID: -1115518362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a541f10712f74c1390f42492734cffb
+      internalID: -1094431993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_94
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b968d542076a4443ab2925f0945d85c
+      internalID: -1681045606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_95
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f1d13dd5b4430ebec59551de8cbfd
+      internalID: 744756837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_96
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750140d036b749608e10914b67c5cba
+      internalID: -402204487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_97
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ffdfaa4bbec4ba096a628c6fc12b18
+      internalID: 708218647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_98
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4285e912eae46d38fb42f642c34c9d
+      internalID: -2143534845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7b968d698d4c37bd6a2e025ad8cd6
+      internalID: -1892805506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fe5cc4d55043a38785de4c3935f84
+      internalID: -741483885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d72873a8a1489889a6a620d2cba3b
+      internalID: 1242605214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_102
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d50472993bb43298414eba9c578706
+      internalID: -843287730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_103
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac63325ec8474d77bf11ac9be8c9b37
+      internalID: 903333668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_104
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f5446bb99048a5a20789b0e365530
+      internalID: 1846565724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_105
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ba8686d4c941238232f64ff04fb85
+      internalID: 972259021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_106
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd14e5d413b44e5a906c1a23a646452
+      internalID: -314159839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_107
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee8c6f4acc2341008fdf022e2eb5b71
+      internalID: 53475477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_108
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c937fcc288f4a988f9edf602ccee75
+      internalID: -687983961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_109
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a43e38cb73db4135a784a51b188d356
+      internalID: -396089135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243a80421f9b4a78b89761a21fb9f40
+      internalID: 1178569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7692dfb5a445318b6a6cfceee8a38
+      internalID: -845488343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_112
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25353adb1c704ffda5a2d7abf4ed699
+      internalID: -2013920566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_113
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff212da08135b47118423ce82d0579dc
+      internalID: -331930300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_114
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3060e207534436da3003431958fb92
+      internalID: -883628658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_115
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29c598b4f78e47fcb8c1378f3e15a14
+      internalID: -1178351163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_116
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d6f0d29f834c92aa893087ef84e75
+      internalID: 42455084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_117
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691a1d53adda417299c06037b312e35
+      internalID: 40500801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_118
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce40e1d8aa8384d2f8c2c635ce4c2293
+      internalID: -161663247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking left_119
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69497c7eec14b81996c6c08f419230
+      internalID: 497869480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mc walking left_0: 1441596769
+      mc walking left_1: -1500029027
+      mc walking left_10: -2093585193
+      mc walking left_100: -741483885
+      mc walking left_101: 1242605214
+      mc walking left_102: -843287730
+      mc walking left_103: 903333668
+      mc walking left_104: 1846565724
+      mc walking left_105: 972259021
+      mc walking left_106: -314159839
+      mc walking left_107: 53475477
+      mc walking left_108: -687983961
+      mc walking left_109: -396089135
+      mc walking left_11: -737117740
+      mc walking left_110: 1178569732
+      mc walking left_111: -845488343
+      mc walking left_112: -2013920566
+      mc walking left_113: -331930300
+      mc walking left_114: -883628658
+      mc walking left_115: -1178351163
+      mc walking left_116: 42455084
+      mc walking left_117: 40500801
+      mc walking left_118: -161663247
+      mc walking left_119: 497869480
+      mc walking left_12: 156724619
+      mc walking left_13: 1985408699
+      mc walking left_14: -771633677
+      mc walking left_15: 680599105
+      mc walking left_16: 1836438434
+      mc walking left_17: -721017742
+      mc walking left_18: 1232747821
+      mc walking left_19: -1755537877
+      mc walking left_2: 2066618579
+      mc walking left_20: 1599372639
+      mc walking left_21: 1782682228
+      mc walking left_22: -514675120
+      mc walking left_23: -1634177613
+      mc walking left_24: 682133245
+      mc walking left_25: 838883960
+      mc walking left_26: 609331862
+      mc walking left_27: 2102729666
+      mc walking left_28: -641290073
+      mc walking left_29: 1143827423
+      mc walking left_3: -1733764361
+      mc walking left_30: 1857144340
+      mc walking left_31: 360202120
+      mc walking left_32: 499442014
+      mc walking left_33: 246728149
+      mc walking left_34: 323122395
+      mc walking left_35: 1660796872
+      mc walking left_36: -1121163151
+      mc walking left_37: -1923188787
+      mc walking left_38: -214462019
+      mc walking left_39: 2130538857
+      mc walking left_4: -1044432668
+      mc walking left_40: 985867617
+      mc walking left_41: 484546213
+      mc walking left_42: 1664031128
+      mc walking left_43: -1890101516
+      mc walking left_44: 857723802
+      mc walking left_45: 1791168731
+      mc walking left_46: 1266904394
+      mc walking left_47: 1036219893
+      mc walking left_48: 1563804514
+      mc walking left_49: 760842481
+      mc walking left_5: -274936536
+      mc walking left_50: -1910291304
+      mc walking left_51: 1035077968
+      mc walking left_52: -2091771145
+      mc walking left_53: -1518195124
+      mc walking left_54: 548326188
+      mc walking left_55: -2116199849
+      mc walking left_56: -12966365
+      mc walking left_57: 1944101393
+      mc walking left_58: -92477746
+      mc walking left_59: 127311796
+      mc walking left_6: -1561974355
+      mc walking left_60: -1570251776
+      mc walking left_61: 1192302895
+      mc walking left_62: 1835977664
+      mc walking left_63: -928023825
+      mc walking left_64: -593532752
+      mc walking left_65: -790842200
+      mc walking left_66: -185804492
+      mc walking left_67: -353276182
+      mc walking left_68: 1344786258
+      mc walking left_69: 1084964632
+      mc walking left_7: -2068623897
+      mc walking left_70: -1299241648
+      mc walking left_71: 605669168
+      mc walking left_72: -1984777145
+      mc walking left_73: -1489959037
+      mc walking left_74: -104355819
+      mc walking left_75: 965780685
+      mc walking left_76: 1018123006
+      mc walking left_77: 1402829484
+      mc walking left_78: 2136373270
+      mc walking left_79: 69855203
+      mc walking left_8: 2021191231
+      mc walking left_80: -1539470740
+      mc walking left_81: -262121375
+      mc walking left_82: -106216383
+      mc walking left_83: -413707320
+      mc walking left_84: 1282097247
+      mc walking left_85: -519823890
+      mc walking left_86: -1983915888
+      mc walking left_87: 1838169595
+      mc walking left_88: 1855663101
+      mc walking left_89: 1834477521
+      mc walking left_9: 2032875529
+      mc walking left_90: -525228431
+      mc walking left_91: -1104805360
+      mc walking left_92: -1115518362
+      mc walking left_93: -1094431993
+      mc walking left_94: -1681045606
+      mc walking left_95: 744756837
+      mc walking left_96: -402204487
+      mc walking left_97: 708218647
+      mc walking left_98: -2143534845
+      mc walking left_99: -1892805506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
