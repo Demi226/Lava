@@ -13,15 +13,15 @@ public class PlayerInventory : MonoBehaviour
     {
         switch (item)
         {
-            case 1:
+            case 0:
                 hasFood = !hasFood;
                 foodImage.SetActive(hasFood);
                 break;
-            case 2:
+            case 1:
                 hasWeapon = !hasWeapon;
                 weaponImage.SetActive(hasWeapon);
                 break;
-            case 3:
+            case 2:
                 hasBoost = !hasBoost;
                 boostImage.SetActive(hasBoost);
                 break;
@@ -34,13 +34,13 @@ public class PlayerInventory : MonoBehaviour
     {
         switch (item)
         {
-            case 1:
+            case 0:
                 return (hasFood);
                 break;
-            case 2:
+            case 1:
                 return (hasWeapon);
                 break;
-            case 3:
+            case 2:
                 return (hasBoost);
                 break;
             default:
