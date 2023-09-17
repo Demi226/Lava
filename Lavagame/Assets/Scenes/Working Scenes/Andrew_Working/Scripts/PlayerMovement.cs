@@ -8,6 +8,10 @@ public class PlayerMovement : MonoBehaviour
     // the weapon the player uses against the ghosts
     public GameObject playerLamp;
 
+    //used for player audio
+    public AudioClip[] playerAudio;
+    public AudioSource playersource;
+
     // how long the lamp and boost lasts
     public float lampTime, boostTime;
 
@@ -58,6 +62,7 @@ public class PlayerMovement : MonoBehaviour
         {
             playerInventory.UpdateInventory(1);
             playerSpeed += 0.1f;
+            playersource.clip = playerAudio[0];
         }
         //check for lamp
         if (Input.GetKey("e") && playerInventory.hasWeapon)
@@ -71,6 +76,7 @@ public class PlayerMovement : MonoBehaviour
         {
             playerInventory.UpdateInventory(3);
             boostTime = 0.2f;
+            playersource.clip = playerAudio[1];
         }
 
         // subtracts boost
