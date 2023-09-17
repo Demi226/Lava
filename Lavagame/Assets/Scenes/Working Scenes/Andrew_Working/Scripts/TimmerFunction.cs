@@ -8,7 +8,7 @@ public class TimmerFunction : MonoBehaviour
 
     //holds the text element and float of the timer
     public Text timeText;
-    public float currentTime;
+    public float currentTime = 60f;
 
     // starts the timer when the games starts
     public bool gameStart = false;
@@ -30,7 +30,11 @@ public class TimmerFunction : MonoBehaviour
 
     public void UpdateTimer()
     {
-        currentTime = 60f;
+        currentTime += 10f;
         gameStart = true;
+        if(currentTime >= 60f)
+        {
+            currentTime = 60f;
+        }
     }
 }
