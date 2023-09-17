@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: c1d4ff073ba93482ca1dcc1576379124
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creeper move up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b450c179d54de8929468f8adea06a
+      internalID: 1846210516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e8ce57729a457f9fd6be4fbb4eef7
+      internalID: 719210599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682fd3dc6cd5444f7b9e27087117f0be
+      internalID: -2109513788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa38293a281244f5bab85d0f828c3a5
+      internalID: 568756404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d393e61463f444a8c10969aafaa4a3
+      internalID: 177258267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72328e00da906496d9c2077bb4551397
+      internalID: 1675133356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9012fca4994a99b535446cf6ab726
+      internalID: -1610499773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4269828cc945b9a97286180805051
+      internalID: -223641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6a6a8df93349e9995c6583eb3ce22
+      internalID: 1212057050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bc0f45a6114a768e2b11e16c614ca
+      internalID: -873514014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac8a23da2204b92a30e2cd071b220c
+      internalID: -1811243417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c6d70f8f2143f7a9a6d1b8f557fb3
+      internalID: -509617113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51dfb1c918834b4ba3d556618102672
+      internalID: -157161900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b3f8335d1b44a99ad93ccb508cd58
+      internalID: -555693095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce43f17645d7542a1bffd1ddc8080537
+      internalID: -2050569239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed47c519976a48f8b9d886e3dd7918e
+      internalID: 1431966131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_16
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c8e04949d14730ae50f48e5f796a0
+      internalID: 1783239653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6bae0102fe43e198aa74e1b923008
+      internalID: 1931199417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01088d3ff844bf4b4cc8a8f83a7ec4
+      internalID: -1226711309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_19
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d9568ff9524c13bc1c3b0187dd900
+      internalID: -184905395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_20
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844ce9d18bd144be85e29237649f0a4
+      internalID: -1578309768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_21
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105057bb722c44518c4ef49cc8cb800
+      internalID: -939585336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143f79d1359f476e8ce3949aa0889ac
+      internalID: 27726177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7745986791647b08a3302b34cc2185
+      internalID: 120996989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927cdcda6165f4ef181acb257dfe02e8
+      internalID: -360685383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7956d781944dae94087a4c3053355
+      internalID: 1329489880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816af5e277a524bf284914c18298312b
+      internalID: -1562474075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_27
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c8711911b04936bd29df12009a118
+      internalID: 1461912400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_28
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1eb6b3b2954405a9a811771941f8b
+      internalID: -2121569120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_29
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6886f81f7274947bab90e0700e40a6
+      internalID: -1913256191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_30
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64842d44499c748db990ee9af364753e
+      internalID: -1300055670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_31
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3fab74b7ab349fba16f0c2f3a0c3ae
+      internalID: -1695399636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_32
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d99bef93bf84157ac7f95840f05cd1
+      internalID: -195789644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530a333c5c8549f3b33fd927cd86542
+      internalID: 1686973997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3cb268a1b82436f9c91f7951b0e311
+      internalID: -402960782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da65af72f674679b5f80da54501efe
+      internalID: 132002816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_36
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb802283d9a48b59572555fa19e81a
+      internalID: -901265817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4ee28fb1e447c29d0e9d5476f0298
+      internalID: -1515656629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e9b319d6ed4ecf9022e7a7d7f7da5
+      internalID: 1643140527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_39
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504571e49054470b9dc837cfb8be0c0
+      internalID: -1689802219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_40
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721b80549d0b413e9ca5dc1bd8f0f7d
+      internalID: -651922062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_41
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f37183d35646d58e4da947d1fcb46
+      internalID: 844236227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_42
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa037fdafb8429a864203a03fbfcca
+      internalID: -1702688599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_43
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1954b3feb6c504075be8f26936b77665
+      internalID: -1190687764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94477e88917d40e18550c7c4840d4a3
+      internalID: 459739685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d01c0393174994a601b1285f2c641
+      internalID: 1979244728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f666f93f82894f1ca3d413c015efce2
+      internalID: -1556217006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059f85b861794dbe8077bf210f4bc30
+      internalID: -1396158370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_48
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc22acc86164c60af5d0bb38d108ab
+      internalID: 2127352226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_49
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b3fde9ad68a4286bcfd3ee870eb4d3
+      internalID: -265152415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_50
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b230abec47bd4a0e9a776c7345be03f
+      internalID: 249985437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_51
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ba4293e23a047a4ac591657f328631
+      internalID: 661874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_52
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64942cfe9dc7c4bb2a8bc5ba5c943aa7
+      internalID: -1044085264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_53
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef61ac8304b4f62aae7c17fdcdf4d9
+      internalID: 844613922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_54
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045743f1574840b9881b8cf31c445fc
+      internalID: -364576529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0da2edd5ca34838b8fda365879d8d3
+      internalID: -427517393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2a30d163564fec95b47b378abeb67
+      internalID: -1828736574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b57ac21533466b8a5c8a82038d5cf
+      internalID: 1987332178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_58
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b85d2a3cf34c2e94aa9b342fab209
+      internalID: -1909246544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_59
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac01b8a807e4b51b44033103fa0107
+      internalID: -851681091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_60
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5d907d48d74c8195c06ee78b8affc
+      internalID: 1983644934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_61
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123672c6127f74325b1d57c6426120a7
+      internalID: 992278449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_62
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9d725d9ef24c77b0e16737f3afbaa
+      internalID: -921760966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_63
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d05ac2f4d784ee396a21aba55c228f
+      internalID: 402957743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_64
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67c397609404a24b5980cbc3b10762
+      internalID: 2100589240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_65
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04681ba3b611d423f8d9ef454c01742f
+      internalID: -1500564380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d76a7fade745f190d7b7cfa15b35b
+      internalID: -1743453166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecbee69caa542d0b3c2f007e96680f
+      internalID: 1985981308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_68
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c7a8258c2c4326a3dcd9cf49569d2
+      internalID: -511335727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba27b8b3cd747199042d6e534756a3
+      internalID: -1431800582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02199356ebd3c4f46a3c83205c41e214
+      internalID: 84601701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_71
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778cf583bc7e479b89d64cd456822ab
+      internalID: -732833893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_72
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f50a5be57324a0a8fa768e324889d1
+      internalID: -537465468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_73
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d33584affd143368aee3cb23769b7a
+      internalID: -19909570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_74
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff26668e06f4e87b3dac49757b327e
+      internalID: -1715466997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_75
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2101f36b003ef458ba5113ef6b9fb296
+      internalID: -1135676029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_76
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd39ed5dbe74f08b89cb5087759842
+      internalID: -1653692369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fbb32f8ac6542d6af5c404e064020d
+      internalID: 829363821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fab454968844b9a93e8faf31626d6b
+      internalID: 1779341970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9315c1f10c4f62a4dd27140478451
+      internalID: 873795933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_80
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d9cb2f1ede4a0faf3a7be33876dd0
+      internalID: 2086544960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff894e609424714a0fe6e7e4180be7
+      internalID: 345859578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_82
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc6e7615c654cb8826a9d2219d57c1
+      internalID: 1110248928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_83
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2bf5e4762044950adcfcc0e056e7be
+      internalID: 1108334063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_84
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b1ce034acc4ea6b8dcca65f6fde04
+      internalID: 1515773047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_85
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed72c90b3de4f66a27beee9ecd703e
+      internalID: 1135302947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_86
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b787a332728d14140bdc42f32bf3b27b
+      internalID: -443697190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_87
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf2fa984f66444dfb1c73ffe24713ba
+      internalID: -1178189665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5077d95a0f477caf2c2ed8d77189d
+      internalID: 1903469529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db373a3640cb4e82848e341225a432a
+      internalID: 925541366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6af4d048aaf48d18b168836827a591
+      internalID: 2125780532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_91
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c897b807f6c41daa065e483ee6fb4f
+      internalID: -425202803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_92
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64458466e3edb46288e6871880aa091c
+      internalID: -309966832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6dd4f275ba04ad499e20d4c4a1694b
+      internalID: 1675687606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_94
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07649bd38f8ac498e866d6316f42d0a5
+      internalID: -405397992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_95
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a980469082c46a1a9c08817b4d6c45
+      internalID: 674257161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_96
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ce85dabed84e1c86b0ef74fa1022b
+      internalID: 572213786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_97
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3d630fb015498e8c43dd98a7dc05b
+      internalID: -1402431942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_98
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767af08aba9641fc978c753f88dc8a1
+      internalID: -1451689293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7869c3402e84e76a995cbee9a82177
+      internalID: -1513158549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f769b4c745b748bdb1057601bd2e278
+      internalID: 1741563542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50603a54cfc8041ddb24c3efcbb70dba
+      internalID: -952787096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_102
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c7ea2b1fba4effb4e3a89512f04e4
+      internalID: -1743006849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_103
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b101c160b9b14a21a30653ca8f97b16
+      internalID: 1260775458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_104
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc2f9a27c1b4278be754ad791083e1
+      internalID: -1271312612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_105
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8954b423878740faa50297e6ee9244b
+      internalID: -1244361159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_106
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632161c68e5764e73a633edc4d18f5c4
+      internalID: 1344398989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_107
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e0731673db41c498f60e4e13db0d1
+      internalID: 704259403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_108
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d525ccefba304c20972b4ea11131cb8
+      internalID: 1230208670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_109
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa430126e60140f28d647db7694ca18
+      internalID: -2136643810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a32145fb54a4ea187fb94692054626
+      internalID: 394452257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7ecb197c7d24da4a5cb8f4caab5b71
+      internalID: 1658849835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_112
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820a24af11e14d65bc42c4a6b3b87d8
+      internalID: -162331457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_113
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04292e1930beb4479af61c29a7c503c6
+      internalID: 769996428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_114
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fe43f9f0a14bb9ba5d4ed27f9f851
+      internalID: 1876756652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_115
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ddd5f83a774e96a2e3e1158413b3d
+      internalID: -1343074950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_116
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d290372451a403c9c6fa4546f5be71
+      internalID: 1737635644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_117
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d25aa406454339b488dc8601e0fe7
+      internalID: 2046130487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_118
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1561c80610da4105b8b32b33ba65e80
+      internalID: -2006476877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creeper move up_119
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3de9f68ebe548bc9c3d4cc7c27fd8d
+      internalID: -1877231304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      creeper move up_0: 1846210516
+      creeper move up_1: 719210599
+      creeper move up_10: -1811243417
+      creeper move up_100: 1741563542
+      creeper move up_101: -952787096
+      creeper move up_102: -1743006849
+      creeper move up_103: 1260775458
+      creeper move up_104: -1271312612
+      creeper move up_105: -1244361159
+      creeper move up_106: 1344398989
+      creeper move up_107: 704259403
+      creeper move up_108: 1230208670
+      creeper move up_109: -2136643810
+      creeper move up_11: -509617113
+      creeper move up_110: 394452257
+      creeper move up_111: 1658849835
+      creeper move up_112: -162331457
+      creeper move up_113: 769996428
+      creeper move up_114: 1876756652
+      creeper move up_115: -1343074950
+      creeper move up_116: 1737635644
+      creeper move up_117: 2046130487
+      creeper move up_118: -2006476877
+      creeper move up_119: -1877231304
+      creeper move up_12: -157161900
+      creeper move up_13: -555693095
+      creeper move up_14: -2050569239
+      creeper move up_15: 1431966131
+      creeper move up_16: 1783239653
+      creeper move up_17: 1931199417
+      creeper move up_18: -1226711309
+      creeper move up_19: -184905395
+      creeper move up_2: -2109513788
+      creeper move up_20: -1578309768
+      creeper move up_21: -939585336
+      creeper move up_22: 27726177
+      creeper move up_23: 120996989
+      creeper move up_24: -360685383
+      creeper move up_25: 1329489880
+      creeper move up_26: -1562474075
+      creeper move up_27: 1461912400
+      creeper move up_28: -2121569120
+      creeper move up_29: -1913256191
+      creeper move up_3: 568756404
+      creeper move up_30: -1300055670
+      creeper move up_31: -1695399636
+      creeper move up_32: -195789644
+      creeper move up_33: 1686973997
+      creeper move up_34: -402960782
+      creeper move up_35: 132002816
+      creeper move up_36: -901265817
+      creeper move up_37: -1515656629
+      creeper move up_38: 1643140527
+      creeper move up_39: -1689802219
+      creeper move up_4: 177258267
+      creeper move up_40: -651922062
+      creeper move up_41: 844236227
+      creeper move up_42: -1702688599
+      creeper move up_43: -1190687764
+      creeper move up_44: 459739685
+      creeper move up_45: 1979244728
+      creeper move up_46: -1556217006
+      creeper move up_47: -1396158370
+      creeper move up_48: 2127352226
+      creeper move up_49: -265152415
+      creeper move up_5: 1675133356
+      creeper move up_50: 249985437
+      creeper move up_51: 661874850
+      creeper move up_52: -1044085264
+      creeper move up_53: 844613922
+      creeper move up_54: -364576529
+      creeper move up_55: -427517393
+      creeper move up_56: -1828736574
+      creeper move up_57: 1987332178
+      creeper move up_58: -1909246544
+      creeper move up_59: -851681091
+      creeper move up_6: -1610499773
+      creeper move up_60: 1983644934
+      creeper move up_61: 992278449
+      creeper move up_62: -921760966
+      creeper move up_63: 402957743
+      creeper move up_64: 2100589240
+      creeper move up_65: -1500564380
+      creeper move up_66: -1743453166
+      creeper move up_67: 1985981308
+      creeper move up_68: -511335727
+      creeper move up_69: -1431800582
+      creeper move up_7: -223641183
+      creeper move up_70: 84601701
+      creeper move up_71: -732833893
+      creeper move up_72: -537465468
+      creeper move up_73: -19909570
+      creeper move up_74: -1715466997
+      creeper move up_75: -1135676029
+      creeper move up_76: -1653692369
+      creeper move up_77: 829363821
+      creeper move up_78: 1779341970
+      creeper move up_79: 873795933
+      creeper move up_8: 1212057050
+      creeper move up_80: 2086544960
+      creeper move up_81: 345859578
+      creeper move up_82: 1110248928
+      creeper move up_83: 1108334063
+      creeper move up_84: 1515773047
+      creeper move up_85: 1135302947
+      creeper move up_86: -443697190
+      creeper move up_87: -1178189665
+      creeper move up_88: 1903469529
+      creeper move up_89: 925541366
+      creeper move up_9: -873514014
+      creeper move up_90: 2125780532
+      creeper move up_91: -425202803
+      creeper move up_92: -309966832
+      creeper move up_93: 1675687606
+      creeper move up_94: -405397992
+      creeper move up_95: 674257161
+      creeper move up_96: 572213786
+      creeper move up_97: -1402431942
+      creeper move up_98: -1451689293
+      creeper move up_99: -1513158549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

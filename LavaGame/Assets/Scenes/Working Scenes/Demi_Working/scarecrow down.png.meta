@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: 767cfbfdb03374fc182639ad564e4789
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scarecrow down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e9e5c334754243b89e5dbdf14c7a8
+      internalID: -1005280055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e73856c1b33450c934ea4a743184a8
+      internalID: -854350090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945749add779a4165b74c5aac67132d6
+      internalID: -902811499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a128e1972f4557bf0e231a90165d2
+      internalID: 503335540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e89a8077eb4455a98172ab3f8b6f41
+      internalID: -781452134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877741e0580c64b0a94789eaa42292cb
+      internalID: 1596686925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9267c4c62d474fefacf56d8355bb8fb
+      internalID: 467138320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5babf40062044079be4438860b1286d
+      internalID: 1132306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226aa142eece45c5baa888f439f90cb
+      internalID: 591714540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9eca0e5bd0e46d4bc52d2ff2485f67
+      internalID: 267294380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc421cb19cdd14563a02ba690df15ed2
+      internalID: -902934439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c3639314b34467916a6c4b838de74
+      internalID: 865469818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9bd68ec5bf1471092a8274db9dc3c9
+      internalID: 1046272497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f2b1c0fb724520853a650fc469b18
+      internalID: 1457047774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171502e4412dd497281962b2f6d9b238
+      internalID: -1956545852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05362376b8d4eb4866eb663b5a5e1a
+      internalID: 1450526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_16
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ddd0e1f5734947bda7911aa867877
+      internalID: -1958722609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728fe01d9eaf4777ae39c8739dbdcd8
+      internalID: 1271064228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7f54dcfb6b42bfb98246ae97bcc7b
+      internalID: 1996810326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_19
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17304f61ea181436abaaf04206cfcb4b
+      internalID: -1445202167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_20
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b47a02598664153ae69eafb299bc53
+      internalID: -2098478082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_21
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8823b0bf46248428b2da14fc9877d0
+      internalID: -265335469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feb747a4d661409fa6a368988462a5f
+      internalID: -1018827266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36df35627c0432ab883c824cdcc048
+      internalID: 1289002027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec41abee7a444d598b51e082f38fb4c
+      internalID: -1077345508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7c58d8b27e4574a79d29345367b76
+      internalID: 820283414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83254f483fb44767a716f5040abbb2b
+      internalID: -504137540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_27
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea0dbf73b7640ab9d3a73a7382041b
+      internalID: 594634241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_28
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab844f191d4421f884c9ff4d4e8536
+      internalID: -1918571232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_29
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff1e6aa7488422b86197f23f1514de
+      internalID: -1747452693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_30
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8ae01386f1407994d3ab4c8250198
+      internalID: -1072800367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_31
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38789b55c0746dc87c080b288796e0
+      internalID: 2098693532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_32
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06acb42087f417aa1effd3006b3dfa
+      internalID: 477047748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85cfd63e1b347fa8a5e6f98f804d90
+      internalID: -889997595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5d0127841f4002b0e7b24531df57b
+      internalID: 157474942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e61bada86e4f7587f832e11844fc6
+      internalID: 1412456993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_36
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c006a9daa9441e5b105c2abf13fa8b
+      internalID: 1611561658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c2bc7664b1a410a9ed01111b3b7027
+      internalID: 190186950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce2ba691fbf4080b836fb6f46564f4
+      internalID: 2060012047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_39
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0480ee4f753844aeb3ce31b5f5a712f
+      internalID: -1149551037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_40
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa4515bd7854597bc4112099897dbc
+      internalID: 234161869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_41
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc414069bae45f3b39aecd985617be
+      internalID: 1574539252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_42
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57515869413eb4425a691516820ecac0
+      internalID: -1429433060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_43
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bca321ac43e47eb949b34a57dbbb16
+      internalID: 2006051453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60232b5389040bd93fe2a65c6abc80
+      internalID: -1394367045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7ad446b4ee41e98df318a03583123
+      internalID: 454238487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327975078d2884abda026f6e95f2806b
+      internalID: -1087228289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ffbf4523e714a4b9b9edc0c13f3b59
+      internalID: -393181756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_48
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3adae20eb0e4de3b39795f41569cab
+      internalID: -34559445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_49
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd98d9f59fc43a2b0fd83bcbd56828
+      internalID: 821330964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_50
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102019186a4dd40d2bb97d51caaa66e4
+      internalID: 1727518805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_51
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7c1c0056b54be280b29c84cd9b5cb
+      internalID: -283121544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_52
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2792d673d243e9bbcb59795cdd9e3
+      internalID: -964337049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_53
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363d92b678704a959179cbcf25746d0
+      internalID: 72313779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_54
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fb77e3b62b4c118f7e0cbc3aee2e2
+      internalID: 57790789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a56e1985bcf48ddb21559b030208db
+      internalID: 698394738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf52f4e6719444ba3264ecdf18c654
+      internalID: 1583976232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fe24009fd843c5bc17fe9ab4f19cf
+      internalID: 1433402469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_58
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b57cb1ae5e4a23a46dcdc74de7e4c
+      internalID: 603633145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_59
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7ba2806d5a4369903ec3a8c159501
+      internalID: 858472226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_60
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8fee35531545c6903833bd0529e18
+      internalID: 1510755016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_61
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ee4c0cf961417dbce1d7c10d92243
+      internalID: 1413941061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_62
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d94aac0a544e92b219115fdc07416
+      internalID: -492555977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_63
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a6e16c3b694d4cbbbf4386e9fb813
+      internalID: -1265739163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_64
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d6470b22b54786a42bb32030317b1
+      internalID: -1536968415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_65
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55926e2bdcfe64e3e9b1d0a5aedcf204
+      internalID: -1410953824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf80ef0c92544b6a84899f81a98311
+      internalID: 1785122071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6a45c2c9084332b19d18a561db1e2
+      internalID: 1459917894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_68
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c7dc62cb641f7b638f0876a0151c
+      internalID: -843138725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cff383ae944156b03842250522236
+      internalID: 432160461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d0a10a5e9d749f082aa26add67e2fb
+      internalID: 2082837483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_71
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa23672b96f4df694e20c53f0729d1
+      internalID: -2070008148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_72
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b6522110b743fba46cf5ac2ac0f7a
+      internalID: -931301798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_73
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7427f02a53344b691e0bd02dcf06b9
+      internalID: -713363494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_74
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34300bdda29498e838a90ddadf4350
+      internalID: -453025809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_75
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22531e9f2fa9d4dce98c5fcd08c5f0d2
+      internalID: 1617832254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_76
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9263c948ef434be5a357ee9c3632cb2
+      internalID: 953541601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6607fc6ef9e459e986703492bba553
+      internalID: 933192082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ba7e8aac5d49acaef1f86180d454b
+      internalID: 591275124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c62955c031497495bde475a55c121
+      internalID: -838449306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_80
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97b355da39f4d3b90dbe8485a0e3c0
+      internalID: 374301886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0327543babfe459a87b9822720076f9
+      internalID: -709633667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_82
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7427fb665324131b84ab69a4002e22
+      internalID: 1275369274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_83
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b33b9f3cdd496f919039ed4b6e9cb
+      internalID: -376488903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_84
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1cc764c95d457b9a306de415433fb
+      internalID: -1646268431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_85
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67c17cffacf49e89803dabb4e9dddb
+      internalID: -1937187590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_86
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4e2ea9467d4494586a8417ab337442
+      internalID: -39702025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_87
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ded97f1af744498bdaf3bbe7afc4c6
+      internalID: 946575616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44c87dd6d1c4cf0b7cf0a3eade6757
+      internalID: 1919230675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032cbae5c278c4724a1edbe778b4037f
+      internalID: -1208517649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aebd9c97b9d34680a651d13a7a59475
+      internalID: 180715393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_91
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021e742145bc45a0b623365f58d7f0c
+      internalID: 1100170886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_92
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a93f7160d1a24572b1a8022bbd1a9fe
+      internalID: 228493227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e074ca6acbc4a39947cf7a1fac875a
+      internalID: -200780555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_94
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a34c02266b3484a83ef9d11fa3ac21
+      internalID: 1650037050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_95
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac15edc7d90a490cbadabc933435d8a
+      internalID: 691646237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_96
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb51cb34f2b41228a8539a07627b03
+      internalID: 847546063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_97
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c28429b9af1452a80d30f47264cb8b
+      internalID: 1215508741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_98
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433ec1fa8d0249da99c12b7da582bf2
+      internalID: -1731024345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f507c2135ff44a55be0f6e09233eb57
+      internalID: -1537435697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed73eed035a14c10896ce48d09f46c2
+      internalID: 1146336861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d936ded0c4d4bcdae4f285fc4885a6
+      internalID: 648588376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_102
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29c0e5fea93470cb6720ef9da6c341
+      internalID: 2017999935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_103
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1841ec8ceb4c679f6ca19443f4926
+      internalID: -1400016868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_104
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198257646fa8429299569912865ab38
+      internalID: -1850399672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_105
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e5f9aa8d704cfa8dd7e54b34eed6e
+      internalID: 519164878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_106
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ace3c323b91483689481697e12d8ad
+      internalID: 68174999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_107
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb203e6d5122f4aa18bec811f7987a68
+      internalID: -1161216159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_108
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13569061533448839c00a473411ec04
+      internalID: -1065841727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_109
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c22a7dd91eb409ba7a3ed7ea4c13c3
+      internalID: 2040550433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2a1c83347e4b7e9c81afb0c149572
+      internalID: -1609685596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c81674f766493e9dce7d931ad0c9e
+      internalID: 105348191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_112
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9157354669a45a18234deb167a6d70
+      internalID: 849904413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_113
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec7855f651a40fa9e7109d849fb111
+      internalID: -2025726572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_114
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554574b59763b430c9844acea4bfb48f
+      internalID: 1615818574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_115
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3c130f987e45b1b8eaf19fa0f0052
+      internalID: 1276072889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_116
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd054ca4f0f4f5ba93f9acc56b17b8
+      internalID: 1707377951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_117
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbd88f17b83c4633849f95201ef1a70
+      internalID: 1679542207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_118
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf815a508d9e4f42a02bb216deb8801
+      internalID: -1830967308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarecrow down_119
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c86d336eec1e4e3281acd57d63c44f1
+      internalID: -222271724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scarecrow down_0: -1005280055
+      scarecrow down_1: -854350090
+      scarecrow down_10: -902934439
+      scarecrow down_100: 1146336861
+      scarecrow down_101: 648588376
+      scarecrow down_102: 2017999935
+      scarecrow down_103: -1400016868
+      scarecrow down_104: -1850399672
+      scarecrow down_105: 519164878
+      scarecrow down_106: 68174999
+      scarecrow down_107: -1161216159
+      scarecrow down_108: -1065841727
+      scarecrow down_109: 2040550433
+      scarecrow down_11: 865469818
+      scarecrow down_110: -1609685596
+      scarecrow down_111: 105348191
+      scarecrow down_112: 849904413
+      scarecrow down_113: -2025726572
+      scarecrow down_114: 1615818574
+      scarecrow down_115: 1276072889
+      scarecrow down_116: 1707377951
+      scarecrow down_117: 1679542207
+      scarecrow down_118: -1830967308
+      scarecrow down_119: -222271724
+      scarecrow down_12: 1046272497
+      scarecrow down_13: 1457047774
+      scarecrow down_14: -1956545852
+      scarecrow down_15: 1450526693
+      scarecrow down_16: -1958722609
+      scarecrow down_17: 1271064228
+      scarecrow down_18: 1996810326
+      scarecrow down_19: -1445202167
+      scarecrow down_2: -902811499
+      scarecrow down_20: -2098478082
+      scarecrow down_21: -265335469
+      scarecrow down_22: -1018827266
+      scarecrow down_23: 1289002027
+      scarecrow down_24: -1077345508
+      scarecrow down_25: 820283414
+      scarecrow down_26: -504137540
+      scarecrow down_27: 594634241
+      scarecrow down_28: -1918571232
+      scarecrow down_29: -1747452693
+      scarecrow down_3: 503335540
+      scarecrow down_30: -1072800367
+      scarecrow down_31: 2098693532
+      scarecrow down_32: 477047748
+      scarecrow down_33: -889997595
+      scarecrow down_34: 157474942
+      scarecrow down_35: 1412456993
+      scarecrow down_36: 1611561658
+      scarecrow down_37: 190186950
+      scarecrow down_38: 2060012047
+      scarecrow down_39: -1149551037
+      scarecrow down_4: -781452134
+      scarecrow down_40: 234161869
+      scarecrow down_41: 1574539252
+      scarecrow down_42: -1429433060
+      scarecrow down_43: 2006051453
+      scarecrow down_44: -1394367045
+      scarecrow down_45: 454238487
+      scarecrow down_46: -1087228289
+      scarecrow down_47: -393181756
+      scarecrow down_48: -34559445
+      scarecrow down_49: 821330964
+      scarecrow down_5: 1596686925
+      scarecrow down_50: 1727518805
+      scarecrow down_51: -283121544
+      scarecrow down_52: -964337049
+      scarecrow down_53: 72313779
+      scarecrow down_54: 57790789
+      scarecrow down_55: 698394738
+      scarecrow down_56: 1583976232
+      scarecrow down_57: 1433402469
+      scarecrow down_58: 603633145
+      scarecrow down_59: 858472226
+      scarecrow down_6: 467138320
+      scarecrow down_60: 1510755016
+      scarecrow down_61: 1413941061
+      scarecrow down_62: -492555977
+      scarecrow down_63: -1265739163
+      scarecrow down_64: -1536968415
+      scarecrow down_65: -1410953824
+      scarecrow down_66: 1785122071
+      scarecrow down_67: 1459917894
+      scarecrow down_68: -843138725
+      scarecrow down_69: 432160461
+      scarecrow down_7: 1132306129
+      scarecrow down_70: 2082837483
+      scarecrow down_71: -2070008148
+      scarecrow down_72: -931301798
+      scarecrow down_73: -713363494
+      scarecrow down_74: -453025809
+      scarecrow down_75: 1617832254
+      scarecrow down_76: 953541601
+      scarecrow down_77: 933192082
+      scarecrow down_78: 591275124
+      scarecrow down_79: -838449306
+      scarecrow down_8: 591714540
+      scarecrow down_80: 374301886
+      scarecrow down_81: -709633667
+      scarecrow down_82: 1275369274
+      scarecrow down_83: -376488903
+      scarecrow down_84: -1646268431
+      scarecrow down_85: -1937187590
+      scarecrow down_86: -39702025
+      scarecrow down_87: 946575616
+      scarecrow down_88: 1919230675
+      scarecrow down_89: -1208517649
+      scarecrow down_9: 267294380
+      scarecrow down_90: 180715393
+      scarecrow down_91: 1100170886
+      scarecrow down_92: 228493227
+      scarecrow down_93: -200780555
+      scarecrow down_94: 1650037050
+      scarecrow down_95: 691646237
+      scarecrow down_96: 847546063
+      scarecrow down_97: 1215508741
+      scarecrow down_98: -1731024345
+      scarecrow down_99: -1537435697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

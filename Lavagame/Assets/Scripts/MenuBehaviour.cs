@@ -2,13 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class MenuBehaviour : MonoBehaviour
 {
-    public GameObject startMenu, infoMenu;// defeatMenu, endMenu, creditsMenu;
+    public GameObject startMenu, infoMenu, defeatMenu, endMenu, creditsMenu;
     public GameObject playerObject;
-    private float timer = 7f;
+    public EnemyController enemyController;
+    public TimmerFunction timerFunction;
+    private float timer = 7f, endCredits = 7f;
+    public string sceneName;
+    public GameObject dummyCamera;
+
+
+    void Awake()
+    {
+        sceneName = SceneManager.GetActiveScene().name;
+    }
 
     public void GameStart()
     {
@@ -19,6 +30,11 @@ public class MenuBehaviour : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKey(KeyCode.Space))
+        {
+            GameStart();
+        }
+
         if(timer > 0f && !startMenu.activeSelf)
         {
             timer -= 1 * Time.deltaTime;
@@ -27,6 +43,30 @@ public class MenuBehaviour : MonoBehaviour
         {
             infoMenu.SetActive(false);
             playerObject.SetActive(true);
+            dummyCamera.SetActive(false);
+        }
+
+        if(enemyController.playerLocation >= 6)
+        {
+            endMenu.SetActive(true);
+            dummyCamera.SetActive(true);
+            playerObject.SetActive(false);
+            endCredits -= 1 * Time.deltaTime;
+        }
+        if(timerFunction.currentTime <= 0 && timerFunction.gameStart == true)
+        {
+            defeatMenu.SetActive(true);
+            dummyCamera.SetActive(true);
+            playerObject.SetActive(false);
+            endCredits -= 1 * Time.deltaTime;
+        }
+        if(endCredits <= 0f)
+        {
+            creditsMenu.SetActive(true);
+            if (Input.GetKey(KeyCode.Space))
+            {
+                SceneManager.LoadScene(sceneName);
+            }
         }
     }
 
