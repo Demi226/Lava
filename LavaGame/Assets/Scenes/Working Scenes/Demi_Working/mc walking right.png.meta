@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: b26ae0df1b2224abca4de80d6da487c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc walking right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa393d651944f61942ae3315667529
+      internalID: 342457156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cc8e5201504aa6b3d0d90be8dcd9c
+      internalID: -18933077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539457080257c41f481e199271acb548
+      internalID: -207594606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10bc6fff8ea43239bd02db40329964
+      internalID: 247265463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118cd3b488604743a335b262008a4af
+      internalID: 651925217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341b6c1195f647488846a73381ed1a0
+      internalID: 65669222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ecccdab790431c9f365c4074d79ef
+      internalID: 956927398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d476e21e6a43e3bf408fe03ada779
+      internalID: -25480249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0777bb20eac3c4e8ab19f39ed1912cf1
+      internalID: -1853346543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d6cdc0f16f45fca446bc7e1f037a0
+      internalID: -644546533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5420
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5a0c69e8ae4f0aa0b1b47b6300464
+      internalID: 1205307547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44e505c51c2429ea7adfb52465b2df
+      internalID: 407124341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c79b51d637434ebd8056912a7959bc5
+      internalID: -642749810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eee8eff9de64a028eafb034fc5426f
+      internalID: 343122406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53ab6aaaa5b428583baf13158e0be1
+      internalID: 1226699806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6f3141220e4548839ad8d746f18e5
+      internalID: 1986398834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_16
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891f268977a1421faef1bcad63ec9ba
+      internalID: 87417169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5b2b483cf541afa76a2f7c99b02d0
+      internalID: -682824656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e56caa73be643ffa7daf845b903dff
+      internalID: 1688749128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_19
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b82f2bdd6004bdf83b75c1b0de9b73
+      internalID: 206678183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_20
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15ca6d9f82147f59e6e974459d42ee
+      internalID: -894982058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_21
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4878
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a927243f8648339c6416aa076d2b9
+      internalID: -157233303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdde0dd481cc4e08944205dcf1cde85
+      internalID: -266144869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac801fdc2f24d3e88604dd51b57af7
+      internalID: 510390948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d6ed3bdee640a39c77ae954610544
+      internalID: 1437960072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ccba6131a64ce9a4135692765d074
+      internalID: -23253301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b6f76dfba24cb0901628137e3c0d4
+      internalID: -1150903280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_27
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13add97873876447bb2e54e412c2c0d2
+      internalID: -2145012220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_28
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e8c36ddef14448e9aa37d223256d02
+      internalID: -1583811349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_29
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b79a3e6528546de81f0f6a745660c8
+      internalID: 182777644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_30
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1407c98c434e3286840153c99d2aa
+      internalID: -219660753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_31
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c47a9c8cfb54c9bbbefcc70c97bf0e
+      internalID: -886984879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_32
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4336
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b598df7228bd4073ad5b59ed8e32b04
+      internalID: 1451410889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20154f917848f423191dd71da11d7c00
+      internalID: 1623020754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422ff3e54ee9e4bdf976b692cf6312a3
+      internalID: -1625337249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218d961325ef421889c65a0c597ca2e
+      internalID: 1778757439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_36
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5917185f318407890e2e37ce427608
+      internalID: -1639762105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_37
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663873a8e3a84c0892691df3885b97b
+      internalID: -1971674098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_38
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857887c5e3f34060adb86a89f3c5942
+      internalID: 130484596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_39
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24741d4513894bcd8f29e00e5987fe8
+      internalID: -52301175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_40
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981e76fffc04548b2bc7d7c395e106ec
+      internalID: -871245671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_41
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94793925e7464c06b5b885bafa25724
+      internalID: 1611449704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_42
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d9e97205db43e19f56c0f419c405a
+      internalID: -1751638285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_43
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3794
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5588e00ae34c14bed9e7b32db9b3a
+      internalID: -860687712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf310aa5f80341359a79deb9dcca0ea
+      internalID: -259638158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35cfac483e347858dec8601a4bda4c
+      internalID: 1714304173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a08c1f1373d492f8cc2106f2139d35
+      internalID: 2101347803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a1aff7e56a464fbe3b3a048a018ef
+      internalID: 605661480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_48
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f14d397ede743e1a35b1c45c456049
+      internalID: -1222532499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_49
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbff27df87fd47b8922ee225fcc4dcd
+      internalID: 950032391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_50
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9369949ce44593ab5bc227a9258cb
+      internalID: -478185930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_51
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d003e6ee4b74dd8925ca9dcea2b13e
+      internalID: 392569225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_52
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d0c7ff73924ba3859bfcb3ff959ab
+      internalID: -426993997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_53
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e054fdd4614862ba7d164677e8fcd
+      internalID: 1695939753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_54
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3252
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af398bb184d44a0c863370306d36921
+      internalID: -1626099770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f096d70e8b5e412197cc9721f6c538c
+      internalID: 1246809431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a550cb92e3a453baeda3558665a262
+      internalID: -2070930725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47ba858248134d9e8b2c330d762c32a
+      internalID: -2050648294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_58
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b6c0b599cd437a8bca3f1f10d0e23
+      internalID: -1697735591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_59
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6376dbe0ef4a4706be9ed5bc91f227a
+      internalID: 1184852640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_60
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdad74ecdb5e47829c2c71b93ce8e52
+      internalID: 803216116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_61
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe00ab34df5c0489fa3dba0e33788ead
+      internalID: 1233052390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_62
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdd2e75448d74a9e9ac7b4bb714d0bd
+      internalID: 137272724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_63
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd578cbe955e4fb3a5695be2f801486
+      internalID: 1463266597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_64
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71922d548e28429fa90d28794b57bec
+      internalID: -592994798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_65
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2710
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bff0998ad56447f9f62dbff414a7a4
+      internalID: 1601471401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414cc326df9d430c888d2e959a7ec65
+      internalID: 1603951790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3aeed612cfa428ab5d42579af86352
+      internalID: 278093244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_68
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2069cb1606e41df9492b9f47ba22ac
+      internalID: 1299491738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520fda60afc34d338181ccf0500d535
+      internalID: -1929108711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af69aef2f1da44d8bfdf73448f6c86b
+      internalID: 1737171693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_71
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9a9ae3858d4f6193fdd7f7fe4ebe1
+      internalID: 772701482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_72
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4145146160864207bae28f41fefb465
+      internalID: -638728926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_73
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9160fe7e844748985d698b59fbfa8
+      internalID: 1468367618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_74
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200237e602ce4392bb7b67d595c415e
+      internalID: 1486373780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_75
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d634d2034f4a34a052dc47ceaf5cf
+      internalID: -1008277613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_76
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2168
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6821cbf031d484e96a9cfb686cce1e
+      internalID: 1483278737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa97191a8f142979bcac9742d86464
+      internalID: 419861295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615d6afaba40467ca04e9ab6af6537b
+      internalID: -884653325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544d4d0790e4431db30e03beb66c7ad
+      internalID: 905126027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_80
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0de62fffba49dc8003c0dfb8f8f1e
+      internalID: 1027424688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a19b0bedc8b41039f9dc512a173df5
+      internalID: -1756052778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_82
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc2597a2a7947f9aa9baeb21f6d5a2
+      internalID: -420367531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_83
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addcc5f4e8a684f9a9d86f17f3ecfed1
+      internalID: -1653369919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_84
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0717b7fed254bf7b56369dfb4d89a6
+      internalID: -986004402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_85
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668c948fcd654abbb39197435284579
+      internalID: -1707808431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_86
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a611b4185c574de8b6d3fb4f45be54e
+      internalID: 1934138486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_87
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1626
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c04358f862943e78d177f042a799f0
+      internalID: 1149183294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43130f6b75f1a4d42824e3e48f3fe586
+      internalID: 503648297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eda0f313c1b4e3bbc4581aa77cfe82
+      internalID: 1165705385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255d080ea3e04a1fbaae7a2a1c19a35
+      internalID: 1125485039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_91
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac2542a655b4a1e94ea8707b779a7b
+      internalID: 2036042065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_92
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d88f15b2a740cc8d7f958803fc132
+      internalID: 1993256933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f8b61dc1ea483ea2923f536f6edba
+      internalID: -1521590980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_94
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244087f36e6754c96ad6c21624d4d1db
+      internalID: -1594472864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_95
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56456e06466e143159d193db25703454
+      internalID: -155378090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_96
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770b1b18bd6240c68ee8048decca621
+      internalID: -2031973544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_97
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6495a02d5c24029af3f76993a1e7ac
+      internalID: -750756526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_98
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1084
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae58dfaa05224941b57dab9dcc1cc30
+      internalID: -550954142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaccae2b613d46da9a1e783f6b266b9
+      internalID: -64502152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d07c4d08e044538a95992628bbd0f
+      internalID: -2034006939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_101
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039120e50a6d4bb59f633c38bd8d634
+      internalID: -183844012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_102
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe30b682bc84f49bf5d4202c0ba0b4
+      internalID: 1426485020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_103
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67950d8e233e45adbb15ae49a4573bb
+      internalID: -1868158931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_104
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24086eb6d384c444fa0ce431e40ca61d
+      internalID: 2026508362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_105
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356bb2b0e1dca49caa78d37fa57ca0ef
+      internalID: -561709719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_106
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77418c674f4a14c94b2a0e7f38cd0d09
+      internalID: -2108036968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_107
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0bc06ff4cc24eb0a08672f2a0616b5
+      internalID: -1850338599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_108
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f1b01979ec4a8c8ce3ab49d946031
+      internalID: 1665433445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_109
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 542
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82af12e0d6eb4e7b866d99dc5201a52
+      internalID: -1938306038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af5c344d72a40fe95eb34fc14bca36
+      internalID: -1612421370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f465d5f22d4017836b27da75b6451
+      internalID: 1147681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_112
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ade5cea12514518802403a89a4f00a
+      internalID: -673143782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_113
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387fe1b8beb14bcdab8f5d9181c94bf
+      internalID: -565443380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_114
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aaafc527db8422baf0e81eddb838c2
+      internalID: 33537054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_115
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e886e93b360419a9bbadf91cb6804c
+      internalID: -660624868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_116
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae094702e984698875e74cc4686f75
+      internalID: 885471430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_117
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b8c91e229944639bd70d76dfcd159
+      internalID: -1963016315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_118
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf22305ad2a464c9969fe2a5408a20
+      internalID: -1673798471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc walking right_119
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 542
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925324c535bab47de95cdb207d66e9c6
+      internalID: 1127279751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mc walking right_0: 342457156
+      mc walking right_1: -18933077
+      mc walking right_10: 1205307547
+      mc walking right_100: -2034006939
+      mc walking right_101: -183844012
+      mc walking right_102: 1426485020
+      mc walking right_103: -1868158931
+      mc walking right_104: 2026508362
+      mc walking right_105: -561709719
+      mc walking right_106: -2108036968
+      mc walking right_107: -1850338599
+      mc walking right_108: 1665433445
+      mc walking right_109: -1938306038
+      mc walking right_11: 407124341
+      mc walking right_110: -1612421370
+      mc walking right_111: 1147681337
+      mc walking right_112: -673143782
+      mc walking right_113: -565443380
+      mc walking right_114: 33537054
+      mc walking right_115: -660624868
+      mc walking right_116: 885471430
+      mc walking right_117: -1963016315
+      mc walking right_118: -1673798471
+      mc walking right_119: 1127279751
+      mc walking right_12: -642749810
+      mc walking right_13: 343122406
+      mc walking right_14: 1226699806
+      mc walking right_15: 1986398834
+      mc walking right_16: 87417169
+      mc walking right_17: -682824656
+      mc walking right_18: 1688749128
+      mc walking right_19: 206678183
+      mc walking right_2: -207594606
+      mc walking right_20: -894982058
+      mc walking right_21: -157233303
+      mc walking right_22: -266144869
+      mc walking right_23: 510390948
+      mc walking right_24: 1437960072
+      mc walking right_25: -23253301
+      mc walking right_26: -1150903280
+      mc walking right_27: -2145012220
+      mc walking right_28: -1583811349
+      mc walking right_29: 182777644
+      mc walking right_3: 247265463
+      mc walking right_30: -219660753
+      mc walking right_31: -886984879
+      mc walking right_32: 1451410889
+      mc walking right_33: 1623020754
+      mc walking right_34: -1625337249
+      mc walking right_35: 1778757439
+      mc walking right_36: -1639762105
+      mc walking right_37: -1971674098
+      mc walking right_38: 130484596
+      mc walking right_39: -52301175
+      mc walking right_4: 651925217
+      mc walking right_40: -871245671
+      mc walking right_41: 1611449704
+      mc walking right_42: -1751638285
+      mc walking right_43: -860687712
+      mc walking right_44: -259638158
+      mc walking right_45: 1714304173
+      mc walking right_46: 2101347803
+      mc walking right_47: 605661480
+      mc walking right_48: -1222532499
+      mc walking right_49: 950032391
+      mc walking right_5: 65669222
+      mc walking right_50: -478185930
+      mc walking right_51: 392569225
+      mc walking right_52: -426993997
+      mc walking right_53: 1695939753
+      mc walking right_54: -1626099770
+      mc walking right_55: 1246809431
+      mc walking right_56: -2070930725
+      mc walking right_57: -2050648294
+      mc walking right_58: -1697735591
+      mc walking right_59: 1184852640
+      mc walking right_6: 956927398
+      mc walking right_60: 803216116
+      mc walking right_61: 1233052390
+      mc walking right_62: 137272724
+      mc walking right_63: 1463266597
+      mc walking right_64: -592994798
+      mc walking right_65: 1601471401
+      mc walking right_66: 1603951790
+      mc walking right_67: 278093244
+      mc walking right_68: 1299491738
+      mc walking right_69: -1929108711
+      mc walking right_7: -25480249
+      mc walking right_70: 1737171693
+      mc walking right_71: 772701482
+      mc walking right_72: -638728926
+      mc walking right_73: 1468367618
+      mc walking right_74: 1486373780
+      mc walking right_75: -1008277613
+      mc walking right_76: 1483278737
+      mc walking right_77: 419861295
+      mc walking right_78: -884653325
+      mc walking right_79: 905126027
+      mc walking right_8: -1853346543
+      mc walking right_80: 1027424688
+      mc walking right_81: -1756052778
+      mc walking right_82: -420367531
+      mc walking right_83: -1653369919
+      mc walking right_84: -986004402
+      mc walking right_85: -1707808431
+      mc walking right_86: 1934138486
+      mc walking right_87: 1149183294
+      mc walking right_88: 503648297
+      mc walking right_89: 1165705385
+      mc walking right_9: -644546533
+      mc walking right_90: 1125485039
+      mc walking right_91: 2036042065
+      mc walking right_92: 1993256933
+      mc walking right_93: -1521590980
+      mc walking right_94: -1594472864
+      mc walking right_95: -155378090
+      mc walking right_96: -2031973544
+      mc walking right_97: -750756526
+      mc walking right_98: -550954142
+      mc walking right_99: -64502152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
