@@ -16655,7 +16655,7 @@ PrefabInstance:
       objectReference: {fileID: 1205486627}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: moveSpeed
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: playerMovement
@@ -22632,7 +22632,7 @@ PrefabInstance:
       objectReference: {fileID: 1532779146}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: moveSpeed
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: playerMovement
@@ -22727,7 +22727,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: moveSpeed
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: damageToDeal
@@ -24044,7 +24044,7 @@ PrefabInstance:
       objectReference: {fileID: 1640044643}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: moveSpeed
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: damageToDeal
@@ -31719,7 +31719,7 @@ PrefabInstance:
       objectReference: {fileID: 2085278007}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: moveSpeed
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 325942752002880228, guid: bf1c7a76149e847deac626a7205d3fd4, type: 3}
       propertyPath: playerMovement
