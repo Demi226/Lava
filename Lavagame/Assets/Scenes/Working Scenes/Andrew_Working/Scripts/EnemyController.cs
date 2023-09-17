@@ -6,12 +6,17 @@ public class EnemyController : MonoBehaviour
 {
 
     public GameObject[] listOfEnemies;
+    public AudioClip[] enemyAudio;
+    public AudioSource enemysource;
+    public Transform[] listOfSpawns;
     public int playerLocation = 0;
     public TimmerFunction timerFunction;
 
     public void UpdateArea()
     {
         timerFunction.UpdateTimer();
+        enemysource.clip = enemyAudio[playerLocation];
+        enemysource.Play();
         switch (playerLocation){
             case 2:
                 listOfEnemies[0].SetActive(true);
@@ -25,24 +30,16 @@ public class EnemyController : MonoBehaviour
                 listOfEnemies[2].SetActive(true);
                 break;
             case 5:
-                listOfEnemies[2].SetActive(false);
-                listOfEnemies[0].SetActive(true);
-                listOfEnemies[1].SetActive(true);
-                break;
-            case 6:
                 for(int i = 0; i < listOfEnemies.Length; i++)
                 {
                     listOfEnemies[i].SetActive(true);
                 }
                 break;
-            case 7:
+            case 6:
                 //game end here
                 break;
             default:
                 break;
         }
     }
-
-
-
 }

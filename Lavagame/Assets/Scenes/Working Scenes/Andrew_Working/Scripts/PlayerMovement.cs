@@ -82,7 +82,7 @@ public class PlayerMovement : MonoBehaviour
         // while lamp is up reduce time
         if(lampTime > 0f)
         {
-            lampTime -= 0.1f * Time.deltaTime;
+            lampTime -= 0.5f * Time.deltaTime;
         }
         // when lamp reaches 0 disable it
         if(lampTime <= 0f)
