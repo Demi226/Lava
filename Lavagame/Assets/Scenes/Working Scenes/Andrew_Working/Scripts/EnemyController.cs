@@ -35,9 +35,6 @@ public class EnemyController : MonoBehaviour
                     listOfEnemies[i].SetActive(true);
                 }
                 break;
-            case 6:
-                //game end here
-                break;
             default:
                 break;
         }
