@@ -6,6 +6,7 @@ public class EnemyController : MonoBehaviour
 {
 
     public GameObject[] listOfEnemies;
+    public Transform[] listOfSpawns;
     public int playerLocation = 0;
     public TimmerFunction timerFunction;
 
@@ -42,7 +43,4 @@ public class EnemyController : MonoBehaviour
                 break;
         }
     }
-
-
-
 }

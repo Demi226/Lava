@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public Transform player;
+    public Transform player, tEnemy;
     public float moveSpeed = 5f, damageToDeal;
     private Rigidbody2D rb;
     private Vector2 movement;
     public PlayerMovement playerMovement;
+
+    public EnemyController enemyController;
 
     // Start is called before the first frame update
     void Start()
@@ -38,16 +40,16 @@ public class Enemy : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Player")
         {
-            Destroy(this.gameObject);
+            tEnemy.position = enemyController.listOfSpawns[Random.Range(0, 7)].position;    
             playerMovement.TakeDamage(damageToDeal);
         }
         if(collision.tag == "Weapon")
         {
-            Destroy(this.gameObject);
+            tEnemy.position = enemyController.listOfSpawns[Random.Range(0, 7)].position;
         }
     }
 }
